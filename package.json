@@ -1,0 +1,16 @@
+{
+  "name": "batman-api",
+  "version": "1.0.0",
+  "description": "Must-read Batman Comics by Ashna Dhaliwal",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Ashna Dhaliwal",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "keywords": [],
+  "type": "commonjs"
+}
